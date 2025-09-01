@@ -4,7 +4,7 @@ export const ATTRACTION_IMAGES = {
   jinzishan: "/images/jinzishan.jpg", 
   dawushan: "/images/dawushan.jpg",
   huanghoushan: "/images/huanghoushan.jpg",
-  wushan: "/images/wushan-terraces.jpg",
+  heishan: "/images/wushan-terraces.jpg",
   oujia: "/images/oujia-terraces.jpg",
   zhengqi: "/images/zhengqi-village.jpg",
   yingyang: "/images/yingyang-pass.jpg",
