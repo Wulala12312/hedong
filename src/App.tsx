@@ -513,15 +513,11 @@ function App() {
           <div className="flex justify-center gap-8 mb-4 text-sm">
             <div className="flex items-center gap-2">
               <Phone className="w-4 h-4" />
-              <span>400-0763-0000</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <Mail className="w-4 h-4" />
-              <span>lianshan@tourism.com</span>
+              <span>禾洞镇政府：0763-8123456</span>
             </div>
           </div>
           <p className="text-green-200 text-sm">
-            &copy; 2024 连山壮族瑶族自治县禾洞镇旅游宣传网站 | 版权所有
+            &copy; 2025 连山壮族瑶族自治县禾洞镇旅游宣传网站 | 版权所有
           </p>
         </div>
       </footer>
